@@ -27,6 +27,8 @@
 
 <img width="100%" height="200px" src="https://github.com/noob-programmer10/noob-programmer10/assets/155782686/36138022-2e52-46bb-ab2f-5788c1edfe7f">
 
+![snake gif](https://github.com/noob-programmer/noob-programmer/output-contribution-dark.svg)
+
 
 
 
